@@ -1,0 +1,4 @@
+B (Budapest) :20000
+A (Budapest) :10000
+A (Debrecen) :10000
+A (Debrecen) :10000
